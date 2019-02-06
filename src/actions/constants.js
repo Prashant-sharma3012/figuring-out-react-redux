@@ -1,0 +1,7 @@
+export const GET_STUDENTS = 'GET_STUDENTS';
+export const ADD_STUDENTS = 'ADD_STUDENTS';
+export const EDIT_STUDENTS = 'EDIT_STUDENTS';
+export const DELETE_STUDENTS = 'DELETE_STUDENTS';
+export const FILTER_STUDENTS = 'FILTER_STUDENTS';
+export const ADD_TOASTS = 'ADD_TOASTS';
+export const REMOVE_TOASTS = 'REMOVE_TOASTS';

@@ -1,0 +1,11 @@
+div#notification {
+  position: absolute;
+  top: 4rem;
+  right: 2rem;
+  min-width: 30rem;
+  min-height: 4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+@import 'bootstrap/scss/bootstrap.scss'
